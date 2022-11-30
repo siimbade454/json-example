@@ -1,7 +1,7 @@
 {
   "pets": [
     {
-      "name" : "Meowsalot",
+      "name" : "Lion",
       "AnimalSite" : "https://nationalzoo.si.edu/animals/lion",
       
       "species" : "Cat",
@@ -9,7 +9,7 @@
       "birthYear" : 2012,
       "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"    },
     {
-      "name" : "Meowsalot",
+      "name" : "Wolf",
       "AnimalSite" : "https://nationalzoo.si.edu/animals/lion",
       "species" : "Cat",
       "favFoods" : "celery",
@@ -17,7 +17,7 @@
       "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
     },
     {
-     "name" : "Meowsalot",
+     "name" : "Monkey",
       "AnimalSite" : "https://nationalzoo.si.edu/animals/lion",
       "species" : "Cat",
       "favFoods" : "celery",
@@ -25,7 +25,7 @@
       "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
     },
     {
-      "name" : "Meowsalot",
+      "name" : "Eagle",
       "AnimalSite" : "https://nationalzoo.si.edu/animals/lion",
       "species" : "Cat",
       "favFoods" : "celery",
