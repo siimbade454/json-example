@@ -5,7 +5,7 @@
       "description" :"eeeeee",
       "speed" : 20,
       "diet" : "",
-      "lifeaverage" : "20.00",
+      "lifeaverage" : "",
       "danger" : "Dangerous",
       "image" : "",
       "AnimalSite" : "https://nationalzoo.si.edu/animals/lion"
@@ -14,9 +14,9 @@
     {
       "name" : "Wolf",
       "description" :"ggggg",
-      "speed" : "25.00",
+      "speed" : "",
       "diet" : "",
-      "lifeaverage" : "20",
+      "lifeaverage" : "",
       "danger" : "",
       "image" : "",
       "AnimalSite" : "https://nationalzoo.si.edu/animals/lion"
@@ -26,7 +26,7 @@
        "description" :"gfgfgfgf",
       "speed" : "",
       "diet" : "",
-      "lifeaverage" : "20",
+      "lifeaverage" : "",
       "danger" : "",
       "image" : "",
       "AnimalSite" : "https://nationalzoo.si.edu/animals/lion"
