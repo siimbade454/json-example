@@ -2,36 +2,46 @@
   "pets": [
     {
       "name" : "Lion",
-      "AnimalSite" : "https://nationalzoo.si.edu/animals/lion",
+      "description" :"",
+      "speed" : "",
+      "diet" : "",
+      "life_average" : 20,
+      "danger" : "",
+      "image" : "",
+      "AnimalSite" : "https://nationalzoo.si.edu/animals/lion"
       
-      "species" : "Cat",
-      "favFoods" : "celery",
-      "birthYear" : 2012,
-      "pic" : "https://raw.githubusercontent.com/siimbade454/json-example/master/images/eagle.jpeg" 
     },
     {
       "name" : "Wolf",
-      "AnimalSite" : "https://nationalzoo.si.edu/animals/lion",
-      "species" : "Cat",
-      "favFoods" : "celery",
-      "birthYear" : 2012,
-      "pic" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+      "description" :"",
+      "speed" : "",
+      "diet" : "",
+      "life_average" : 20,
+      "danger" : "",
+      "image" : "",
+      "AnimalSite" : "https://nationalzoo.si.edu/animals/lion"
     },
     {
      "name" : "Monkey",
-      "AnimalSite" : "https://nationalzoo.si.edu/animals/lion",
-      "species" : "Cat",
-      "favFoods" : "celery",
-      "birthYear" : 2012,
-      "pic" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+       "description" :"",
+      "speed" : "",
+      "diet" : "",
+      "life_average" : 20,
+      "danger" : "",
+      "image" : "",
+      "AnimalSite" : "https://nationalzoo.si.edu/animals/lion"
+      
     },
     {
       "name" : "Eagle",
-      "AnimalSite" : "https://nationalzoo.si.edu/animals/lion",
-      "species" : "Cat",
-      "favFoods" : "celery",
-      "birthYear" : 2012,
-      "pic" : "https://raw.githubusercontent.com/siimbade454/json-example/master/README.md"
+       "description" :"",
+      "speed" : "",
+      "diet" : "",
+      "life_average" : 20,
+      "danger" : "",
+      "image" : "",
+      "AnimalSite" : "https://nationalzoo.si.edu/animals/lion"
+      
     }
   ]
 }
