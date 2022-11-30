@@ -1,17 +1,32 @@
 {
   "pets": [
     {
-      "name" : "Purrsloud",
-      "species" : "Cat",
-      "favFoods" : ["wet food", "dry food", "<strong>any</strong> food"],
-      "birthYear" : 2016,
-      "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+     "AnimalName": "Lion",
+      "AnimalDescription": "The lion is a large cat of the genus Panthera native to Africa and India. It has a muscular, broad-chested body, short"
+      "AnimalDiet": "Carnivore",
+      "AverageLifeSpan": 10,
+      "AnimalDangerousStatus": "Very Dangerous",
+      "AnimalImage": "https://raw.githubusercontent.com/siimbade454/hicham1/main/lion.jpeg",
+      "AnimaSite": "https://nationalzoo.si.edu/animals/lion"  
+      
     },
     {
-      "name" : "Barksalot",
-      "species" : "Dog",
-      "birthYear" : 2008,
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+       "AnimalName": "Lion",
+      "AnimalDescription": "The lion is a large cat of the genus Panthera native to Africa and India. It has a muscular, broad-chested body, short"
+      "AnimalDiet": "Carnivore",
+      "AverageLifeSpan": 10,
+      "AnimalDangerousStatus": "Very Dangerous",
+      "AnimalImage": "https://raw.githubusercontent.com/siimbade454/hicham1/main/lion.jpeg",
+      "AnimaSite": "https://nationalzoo.si.edu/animals/lion" 
+    },
+    {
+      "AnimalName": "Lion",
+      "AnimalDescription": "The lion is a large cat of the genus Panthera native to Africa and India. It has a muscular, broad-chested body, short"
+      "AnimalDiet": "Carnivore",
+      "AverageLifeSpan": 10,
+      "AnimalDangerousStatus": "Very Dangerous",
+      "AnimalImage": "https://raw.githubusercontent.com/siimbade454/hicham1/main/lion.jpeg",
+      "AnimaSite": "https://nationalzoo.si.edu/animals/lion" 
     },
     {
       "name" : "Meowsalot",
