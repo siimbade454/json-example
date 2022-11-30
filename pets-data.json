@@ -3,7 +3,7 @@
     {
       "name" : "Lion",
       "description" :"eeeeee",
-      "speed" : "fast",
+      "speed" : "20.5",
       "diet" : "ggggggggggggggggggggggg",
       "lifeaverage" : "",
       "danger" : "Dangerous",
@@ -14,7 +14,7 @@
     {
       "name" : "Wolf",
       "description" :"ggggg",
-      "speed" : "fast",
+      "speed" : "25.1",
       "diet" : "dd",
       "lifeaverage" : "",
       "danger" : "ds",
@@ -24,7 +24,7 @@
     {
      "name" : "Monkey",
        "description" :"gfgfgfgf",
-      "speed" : " fast",
+      "speed" : " 10.2",
       "diet" : "carni",
       "lifeaverage" : "",
       "danger" : "Moderate",
@@ -37,7 +37,7 @@
        "description" :"",
       "speed" : "fast",
       "diet" : " fish",
-      "lifeaverage" : 20,
+      "lifeaverage" : 25.5,
       "danger" : " Dangerous",
       "image" : "",
       "AnimalSite" : "https://nationalzoo.si.edu/animals/lion"
