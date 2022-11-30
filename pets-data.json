@@ -3,7 +3,7 @@
     {
       "name" : "Lion",
       "description" :"",
-      "speed" : "",
+      "speed" : "20",
       "diet" : "",
       "lifeaverage" : 20,
       "danger" : "",
