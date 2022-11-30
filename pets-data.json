@@ -1,32 +1,24 @@
 {
   "pets": [
     {
-     "AnimalNam": "Lion",
-      "AnimalDescription": "The lion is a large cat of the genus Panthera native to Africa and India. It has a muscular, broad-chested body, short",
-      "AnimalDiet": "Carnivore",
-      "AverageLifeSpan": 10,
-      "AnimalDangerousStatus": "Very Dangerous",
-      "AnimalImage": "https://raw.githubusercontent.com/siimbade454/hicham1/main/lion.jpeg",
-      "AnimaSite": "https://nationalzoo.si.edu/animals/lion"  
-      
+    "name" : "Meowsalot",
+      "species" : "Cat",
+      "favFoods" : ["tuna", "catnip", "celery"],
+      "birthYear" : 2012,
+      "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"    },
+    {
+      "name" : "Meowsalot",
+      "species" : "Cat",
+      "favFoods" : ["tuna", "catnip", "celery"],
+      "birthYear" : 2012,
+      "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
     },
     {
-       "AnimalName": "Lion",
-      "AnimalDescription": "The lion is a large cat of the genus Panthera native to Africa and India. It has a muscular, broad-chested body, short",
-      "AnimalDiet": "Carnivore",
-      "AverageLifeSpan": 10,
-      "AnimalDangerousStatus": "Very Dangerous",
-      "AnimalImage": "https://raw.githubusercontent.com/siimbade454/hicham1/main/lion.jpeg",
-      "AnimaSite": "https://nationalzoo.si.edu/animals/lion" 
-    },
-    {
-      "AnimalName": "Lion",
-      "AnimalDescription": "The lion is a large cat of the genus Panthera native to Africa and India. It has a muscular, broad-chested body, short",
-      "AnimalDiet": "Carnivore",
-      "AverageLifeSpan": 10,
-      "AnimalDangerousStatus": "Very Dangerous",
-      "AnimalImage": "https://raw.githubusercontent.com/siimbade454/hicham1/main/lion.jpeg",
-      "AnimaSite": "https://nationalzoo.si.edu/animals/lion" 
+     "name" : "Meowsalot",
+      "species" : "Cat",
+      "favFoods" : ["tuna", "catnip", "celery"],
+      "birthYear" : 2012,
+      "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
     },
     {
       "name" : "Meowsalot",
