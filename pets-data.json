@@ -5,7 +5,7 @@
       "description" :"eeeeee",
       "speed" : 20,
       "diet" : "",
-      "lifeaverage" : 20.00,
+      "lifeaverage" : "20.00",
       "danger" : "Dangerous",
       "image" : "",
       "AnimalSite" : "https://nationalzoo.si.edu/animals/lion"
@@ -16,7 +16,7 @@
       "description" :"ggggg",
       "speed" : "25.00",
       "diet" : "",
-      "lifeaverage" : 20,
+      "lifeaverage" : "20",
       "danger" : "",
       "image" : "",
       "AnimalSite" : "https://nationalzoo.si.edu/animals/lion"
@@ -26,7 +26,7 @@
        "description" :"gfgfgfgf",
       "speed" : "",
       "diet" : "",
-      "lifeaverage" : 20,
+      "lifeaverage" : "20",
       "danger" : "",
       "image" : "",
       "AnimalSite" : "https://nationalzoo.si.edu/animals/lion"
