@@ -7,7 +7,7 @@
       "species" : "Cat",
       "favFoods" : "celery",
       "birthYear" : 2012,
-      "photo" : "https://raw.githubusercontent.com/siimbade454/json-example/master/images/cat-1.jpg" 
+      "AnimalDangerStatus" : "https://raw.githubusercontent.com/siimbade454/json-example/master/images/cat-1.jpg" 
     },
     {
       "name" : "Wolf",
@@ -15,7 +15,7 @@
       "species" : "Cat",
       "favFoods" : "celery",
       "birthYear" : 2012,
-      "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+      "AnimalDangerStatus" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
     },
     {
      "name" : "Monkey",
@@ -23,7 +23,7 @@
       "species" : "Cat",
       "favFoods" : "celery",
       "birthYear" : 2012,
-      "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+      "AnimalDangerStatus" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
     },
     {
       "name" : "Eagle",
@@ -31,7 +31,7 @@
       "species" : "Cat",
       "favFoods" : "celery",
       "birthYear" : 2012,
-      "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+      "AnimalDangerStatus" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
     }
   ]
 }
