@@ -15,16 +15,16 @@
       "name" : "Wolf",
       "description" :"ggggg",
       "speed" : "fast",
-      "diet" : "",
+      "diet" : "dd",
       "lifeaverage" : "",
-      "danger" : "",
+      "danger" : "ds",
       "image" : "",
       "AnimalSite" : "https://nationalzoo.si.edu/animals/lion"
     },
     {
      "name" : "Monkey",
        "description" :"gfgfgfgf",
-      "speed" : "",
+      "speed" : " fast",
       "diet" : "",
       "lifeaverage" : "",
       "danger" : "Moderate",
@@ -35,10 +35,10 @@
     {
       "name" : "Eagle",
        "description" :"",
-      "speed" : "",
-      "diet" : "",
+      "speed" : "fast",
+      "diet" : " fish",
       "lifeaverage" : 20,
-      "danger" : "",
+      "danger" : " Dangerous",
       "image" : "",
       "AnimalSite" : "https://nationalzoo.si.edu/animals/lion"
       
