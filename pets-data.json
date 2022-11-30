@@ -7,7 +7,8 @@
       "species" : "Cat",
       "favFoods" : "celery",
       "birthYear" : 2012,
-      "photo" : "https://raw.githubusercontent.com/siimbade454/json-example/master/images/cat-1.jpg"    },
+      "AnimalDangerousStatus" : "https://raw.githubusercontent.com/siimbade454/json-example/master/images/cat-1.jpg" 
+    },
     {
       "name" : "Wolf",
       "AnimalSite" : "https://nationalzoo.si.edu/animals/lion",
