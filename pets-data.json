@@ -38,7 +38,7 @@
       "diet" : " Carnivore",
       "lifeaverage" : "25",
       "danger" : " Dangerous",
-      "image" : "https://raw.githubusercontent.com/siimbade454/json-example/master/images/eagle.jpeg"
+      "image" : "https://raw.githubusercontent.com/siimbade454/json-example/master/images/eagle.jpeg",
       "AnimalSite" : "https://en.wikipedia.org/wiki/Eagle"
       
     }
