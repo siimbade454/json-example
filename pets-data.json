@@ -3,7 +3,7 @@
     {
       "name" : "Lion",
       "description" :"The lion is a large cat of the genus Panthera native to Africa and India. It has a muscular, broad-chested body, short, rounded head, round ears, and a hairy tuft at the end of its tail.",
-      "speed" : "20",
+      "speed" : "Fast",
       "diet" : "Carnivore",
       "lifeaverage" : "",
       "danger" : "Dangerous",
