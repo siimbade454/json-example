@@ -18,7 +18,7 @@
       "diet" : "Carnivore",
       "lifeaverage" : "12",
       "danger" : "Dangerous",
-      "image" : "https://raw.githubusercontent.com/siimbade454/json-example/master/images/wolf.jpeg ",
+      "image" : "https://raw.githubusercontent.com/siimbade454/json-example/master/images/wolf.jpeg",
       "AnimalSite" : "https://www.nationalgeographic.com/animals/mammals/facts/gray-wolf"
     },
     {
@@ -38,8 +38,8 @@
       "diet" : " fish",
       "lifeaverage" : 25.5,
       "danger" : " Dangerous",
-      "image" : "",
-      "AnimalSite" : "https://nationalzoo.si.edu/animals/lion"
+      "image" : "https://raw.githubusercontent.com/siimbade454/json-example/master/images/lion.jpeg,
+      "AnimalSite" : ""
       
     }
   ]
