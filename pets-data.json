@@ -2,9 +2,9 @@
   "pets": [
     {
       "name" : "Lion",
-      "description" :"eeeeee",
+      "description" :"The lion is a large cat of the genus Panthera native to Africa and India. It has a muscular, broad-chested body, short, rounded head, round ears, and a hairy tuft at the end of its tail.",
       "speed" : "20.5",
-      "diet" : "ggggggggggggggggggggggg",
+      "diet" : "Carnivore",
       "lifeaverage" : "",
       "danger" : "Dangerous",
       "image" : "https://raw.githubusercontent.com/siimbade454/json-example/master/images/lion.jpeg",
@@ -13,24 +13,23 @@
     },
     {
       "name" : "Wolf",
-      "description" :"ggggg",
+      "description" :"The wolf, also known as the gray wolf or grey wolf, is a large canine native to Eurasia and North America. More than thirty subspecies of Canis lupus have been recognized, and gray wolves, as popularly understood, comprise wild subspecies.",
       "speed" : "25.1",
-      "diet" : "dd",
-      "lifeaverage" : "",
-      "danger" : "ds",
-      "image" : "https://raw.githubusercontent.com/siimbade454/json-example/master/images/Monkey.jpeg",
-      "AnimalSite" : "https://nationalzoo.si.edu/animals/lion"
+      "diet" : "Carnivore",
+      "lifeaverage" : "12",
+      "danger" : "Dangerous",
+      "image" : "https://raw.githubusercontent.com/siimbade454/json-example/master/images/wolf.jpeg ",
+      "AnimalSite" : "https://www.nationalgeographic.com/animals/mammals/facts/gray-wolf"
     },
     {
      "name" : "Monkey",
-       "description" :"gfgfgfgf",
+       "description" :"Monkey is a common name that may refer to most mammals of the infraorder Simiiformes, also known as the simians",
       "speed" : " 10.2",
-      "diet" : "carni",
-      "lifeaverage" : "",
+      "diet" : "Omnivore",
+      "lifeaverage" : "15",
       "danger" : "Moderate",
-      "image" : "",
-      "AnimalSite" : "https://nationalzoo.si.edu/animals/lion"
-      
+      "image" : "https://raw.githubusercontent.com/siimbade454/json-example/master/images/Monkey.jpeg",
+      "AnimalSite" : "https://en.wikipedia.org/wiki/Monkey"      
     },
     {
       "name" : "Eagle",
