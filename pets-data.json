@@ -3,7 +3,7 @@
     {
       "name" : "Lion",
       "description" :"The lion is a large cat of the genus Panthera native to Africa and India. It has a muscular, broad-chested body, short, rounded head, round ears, and a hairy tuft at the end of its tail.",
-      "speed" : "20.5",
+      "speed" : "20",
       "diet" : "Carnivore",
       "lifeaverage" : "",
       "danger" : "Dangerous",
@@ -24,7 +24,7 @@
     {
      "name" : "Monkey",
        "description" :"Monkey is a common name that may refer to most mammals of the infraorder Simiiformes, also known as the simians",
-      "speed" : " 10.2",
+      "speed" : "10.2",
       "diet" : "Omnivore",
       "lifeaverage" : "15",
       "danger" : "Moderate",
