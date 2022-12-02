@@ -32,15 +32,14 @@
       "AnimalSite" : "https://en.wikipedia.org/wiki/Monkey"      
     },
     {
-      "name" : "Eagle",
-       "description" : " Eagle is the common name for many large birds of prey of the family Accipitridae. Eagles belong to several groups of genera, some of which are closely related. Most of the 60 species of eagle are from Eurasia and Africa.",
-      "speed" : "Fast",
-      "diet" : " Carnivore",
-      "lifeaverage" : "25",
-      "danger" : " Dangerous",
-      "image" : "https://raw.githubusercontent.com/siimbade454/json-example/master/images/wolf.jpeg"
-      "AnimalSite" : "https://en.wikipedia.org/wiki/Eagle"
-      
+     "name" : "Monkey",
+       "description" :"Monkey is a common name that may refer to most mammals of the infraorder Simiiformes, also known as the simians",
+      "speed" : "10.2",
+      "diet" : "Omnivore",
+      "lifeaverage" : "15",
+      "danger" : "Moderate",
+      "image" : "https://raw.githubusercontent.com/siimbade454/json-example/master/images/Monkey.jpeg",
+      "AnimalSite" : "https://en.wikipedia.org/wiki/Monkey" 
     }
   ]
 }
