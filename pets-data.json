@@ -32,14 +32,14 @@
       "AnimalSite" : "https://en.wikipedia.org/wiki/Monkey"      
     },
     {
-     "name" : "Monkey",
+     "name" : "Sheep",
        "description" :"Monkey is a common name that may refer to most mammals of the infraorder Simiiformes, also known as the simians",
-      "speed" : "10.2",
-      "diet" : "Omnivore",
-      "lifeaverage" : "15",
-      "danger" : "Moderate",
-      "image" : "https://raw.githubusercontent.com/siimbade454/json-example/master/images/Monkey.jpeg",
-      "AnimalSite" : "https://en.wikipedia.org/wiki/Monkey" 
+      "speed" : "10",
+      "diet" : "Herbivore",
+      "lifeaverage" : "8",
+      "danger" : "Friendly",
+      "image" : "https://raw.githubusercontent.com/siimbade454/json-example/master/images/sheeep.jpeg",
+      "AnimalSite" : "https://www.britannica.com/animal/domesticated-sheep"
     }
   ]
 }
