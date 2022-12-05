@@ -12,13 +12,13 @@
       
     },
      {
-      "name" : "elephant",
+      "name" : "Elephant",
       "description" :"Elephants are the largest existing land animals. Three living species are currently recognised: the African bush elephant, the African forest elephant, and the Asian elephant.",
       "speed" : "10.1",
       "diet" : "Omnivore",
       "lifeaverage" : "20",
       "danger" : "Moderate",
-      "image" : "https://github.com/siimbade454/json-example/blob/master/images/elephant.jpeg",
+      "image" : "https://raw.githubusercontent.com/siimbade454/json-example/master/images/elephant.jpeg",
       "AnimalSite" : "https://en.wikipedia.org/wiki/Elephant"
     },
      {
@@ -28,7 +28,7 @@
       "diet" : "Carnivore",
       "lifeaverage" : "15",
       "danger" : "Dangerous",
-      "image" : "https://github.com/siimbade454/json-example/master/images/eagle.jpeg",
+      "image" : "https://raw.githubusercontent.com/siimbade454/json-example/master/images/elephant.jpeg,
       "AnimalSite" : "https://en.wikipedia.org/wiki/Eagle"
     },
     
