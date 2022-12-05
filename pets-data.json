@@ -11,6 +11,27 @@
       "AnimalSite" : "https://nationalzoo.si.edu/animals/lion"
       
     },
+     {
+      "name" : "Elephant",
+      "description" :"Elephants are the largest existing land animals. Three living species are currently recognised: the African bush elephant, the African forest elephant, and the Asian elephant.",
+      "speed" : "10.1",
+      "diet" : "Omnivore",
+      "lifeaverage" : "20",
+      "danger" : "Moderate",
+      "image" : "https://github.com/siimbade454/json-example/blob/master/images/elephant.jpeg",
+      "AnimalSite" : "https://en.wikipedia.org/wiki/Elephant"
+    },
+     {
+      "name" : "Eagle",
+      "description" :"Eagle is the common name for many large birds of prey of the family Accipitridae. Eagles belong to several groups of genera, some    of which are closely related. Most of the 60 species of eagle are from Eurasia and Africa.",
+      "speed" : "25.1",
+      "diet" : "Carnivore",
+      "lifeaverage" : "15",
+      "danger" : "Dangerous",
+      "image" : "https://github.com/siimbade454/json-example/blob/master/images/eagle.jpeg",
+      "AnimalSite" : "https://en.wikipedia.org/wiki/Eagle"
+    },
+    
     {
       "name" : "Wolf",
       "description" :"The wolf, also known as the gray wolf or grey wolf, is a large canine native to Eurasia and North America. More than thirty subspecies of Canis lupus have been recognized, and gray wolves, as popularly understood, comprise wild subspecies.",
